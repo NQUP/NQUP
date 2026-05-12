@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rizqi</h1>
+<h1 align="center">Hi there 👋, I'm Rizqi Al Fareza</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=700&lines=Web+Developer+Intern;Laravel+%26+PHP+Developer;Backend+Developer;Always+Learning+New+Things" />
