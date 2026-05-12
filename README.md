@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NQUP&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NQUP&show_icons=true&theme=radical" />
 </p>
 
 ---
