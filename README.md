@@ -1,52 +1,27 @@
-# Hi there, I'm Rizqi 👋
+# Hi there 👋, I'm Rizqi
 
-### 💻 Web Developer Intern | Backend Developer
-
-Passionate about building web applications using Laravel & PHP.  
-Focused on backend development, database management, and system optimization.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=28&center=true&vCenter=true&width=700&lines=Web+Developer+Intern;Laravel+%26+PHP+Developer;Backend+Developer;Always+Learning+New+Things)
 
 ---
 
 ## 🚀 About Me
-🔹 Developing web applications with PHP & Laravel  
-🔹 Building CRUD systems and backend features  
-🔹 Working with MySQL & Microsoft Azure SQL  
-🔹 Implementing validation, debugging, and server-side processing  
-🔹 Familiar with MVC Architecture & RESTful Routing  
+💻 Backend Developer focused on Laravel & PHP  
+🛠 Building CRUD systems and web applications  
+📚 Learning database optimization & system development  
 
 ---
 
 ## 🛠 Tech Stack
-
-### Backend
-- PHP
-- Laravel
-
-### Database
-- MySQL
-- Microsoft Azure SQL
-
-### Frontend
-- JavaScript
-- Bootstrap
-
-### Tools
-- Git & GitHub
-- Visual Studio Code
-- Laragon
-- XAMPP
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,bootstrap,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-✨ Asset Management System  
-✨ Contract Reminder Feature  
-✨ Excel Import System  
-✨ Package Delivery Monitoring  
-✨ Whistleblowing System  
+## 📊 GitHub Stats
+![Rizqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NQUP&show_icons=true)
 
 ---
 
 ## 📫 Contact
-📧 Email: rizqialfareza07@gmail.com  
-🔗 GitHub: https://github.com/NQUP
+📧 rizqialfareza07@gmail.com
