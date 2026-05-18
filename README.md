@@ -51,4 +51,4 @@
 ## 📫 Contact
 
 📧 Email: rizqialfareza07@gmail.com  
-🔗 GitHub: https://github.com/NQUP
+📱 WhatsApp: https://wa.me/6287841264778
