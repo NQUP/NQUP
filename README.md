@@ -8,7 +8,7 @@
   <a href="https://wa.me/6287841264778">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:rizqialfareza07@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizqialfareza07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -61,7 +61,7 @@
 ## 📫 Get in Touch
 
 <p align="center">
-  📧 <a href="mailto:rizqialfareza07@gmail.com">rizqialfareza07@gmail.com</a> &nbsp;|&nbsp;
+  📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizqialfareza07@gmail.com" target="_blank">rizqialfareza07@gmail.com</a> &nbsp;|&nbsp;
   📱 <a href="https://wa.me/6287841264778">WhatsApp</a>
 </p>
 
