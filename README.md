@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 💻 Backend Developer yang fokus pada **Laravel & PHP**
+- 💻 Fullstack Developer
 - 🛠 Terbiasa membangun sistem CRUD dan aplikasi web
 - 📚 Sedang memperdalam optimasi database & pengembangan sistem
 - ⚡ Familiar dengan **MVC Architecture** & **RESTful Routing**
