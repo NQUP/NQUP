@@ -36,16 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NQUP&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NQUP&show_icons=true&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NQUP&layout=compact&theme=dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NQUP&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NQUP&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NQUP&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NQUP&theme=dark&hide_border=true" />
 </p>
 
 <br>
