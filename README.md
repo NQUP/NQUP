@@ -1,52 +1,62 @@
-<h1 align="center">Hi there 👋, I'm Rizqi Al Fareza</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=700&lines=Web+Developer;Laravel+%26+PHP+Developer;Backend+Developer;Always+Learning+New+Things" />
-</p>
+# Hi there 👋, I'm Rizqi Al Fareza
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0A66C2&size=28&center=true&vCenter=true&width=700&lines=Web+Developer;Laravel+%26+PHP+Developer;Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+<p>
   <a href="https://wa.me/6287841264778">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizqialfareza07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/NQUP" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<br>
+</div>
 
-## 🚀 About Me
+---
 
-- 💻 Fullstack Developer
-- 🛠 Terbiasa membangun sistem CRUD dan aplikasi web
+### 🚀 About Me
+
+- 💻 Fullstack Developer, dengan fokus utama di **Laravel & PHP**
+- 🛠 Terbiasa membangun sistem CRUD dan aplikasi web skala menengah
 - 📚 Sedang memperdalam optimasi database & pengembangan sistem
 - ⚡ Familiar dengan **MVC Architecture** & **RESTful Routing**
 - 🌱 Terbuka untuk kolaborasi proyek dan kesempatan magang/kerja
+- 📍 Based in Indonesia
 
-<br>
+---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,bootstrap,github,vscode,jquery,css,html,react" />
 </p>
 
-<br>
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=NQUP&show_icons=true&theme=dark&hide_border=true" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NQUP&layout=compact&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NQUP&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NQUP&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NQUP&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NQUP&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NQUP&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
 
-## 📌 Featured Projects
+---
+
+### 📌 Featured Projects
 
 | Project | Deskripsi Singkat |
 |---|---|
@@ -56,9 +66,9 @@
 | ✨ **Package Delivery Monitoring** | Pemantauan status pengiriman paket |
 | ✨ **Whistleblowing System** | Sistem pelaporan pelanggaran secara anonim |
 
-<br>
+---
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
 <p align="center">
   📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizqialfareza07@gmail.com" target="_blank">rizqialfareza07@gmail.com</a> &nbsp;|&nbsp;
